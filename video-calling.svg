@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320">
-  <g fill="none" fill-rule="evenodd">
-    <rect width="640" height="320" fill="#FF006C"/>
-    <text font-family="NotoSansDisplay-CondensedBlack, Noto Sans Display" font-size="64" font-style="condensed" font-weight="700">
-      <tspan x="47" y="164" fill="#062CFF">video calling</tspan> <tspan x="47" y="228" fill="#FFF">for activists</tspan>
-    </text>
-    <path fill="#002CFF" fill-rule="nonzero" d="M138.24,103.68 L103.68,76.032 L103.68,103.68 L34.56,103.68 L34.56,34.56 L103.68,34.56 L103.68,62.208 L138.24,34.56 M155.52,0 L17.28,0 C7.73651952,0 0,7.73651952 0,17.28 L0,172.8 L34.56,138.24 L155.52,138.24 C165.06348,138.24 172.8,130.50348 172.8,120.96 L172.8,17.28 C172.8,7.6896 165.024,0 155.52,0 Z" transform="translate(431 74)"/>
-  </g>
-</svg>
