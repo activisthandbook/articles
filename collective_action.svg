@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="628" viewBox="0 0 1200 628">
+  <defs>
+    <rect id="collective-action-a" width="1104" height="532" x="48" y="48" rx="24"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="1200" height="628" fill="#FFF"/>
+    <path fill="#FF006C" d="M80,580 L1120,580 C1120,588.836556 1112.83656,596 1104,596 L96,596 C87.163444,596 80,588.836556 80,580 L80,580 L80,580 Z" opacity=".5"/>
+    <mask id="collective-action-b" fill="#fff">
+      <use xlink:href="#collective-action-a"/>
+    </mask>
+    <use fill="#FF006C" xlink:href="#collective-action-a"/>
+    <g mask="url(#collective-action-b)">
+      <g transform="translate(279 45)">
+        <text fill="#FFF" font-family="NotoSansDisplay-CondensedBlack, Noto Sans Display" font-size="192" font-style="condensed" font-weight="700" transform="translate(0 105)">
+          <tspan x="0" y="205">Let’s</tspan> <tspan x="0" y="365">unite</tspan>
+        </text>
+        <circle cx="470" cy="407" r="12" fill="#FFF"/>
+        <polygon fill="#062CFF" fill-rule="nonzero" points="448 0 448 213.95 506.5 213.95 506.5 389 643 155.6 565 155.6 643 0"/>
+        <polygon fill="#FFF" fill-rule="nonzero" points="0 0 0 165 45 165 45 300 150 120 90 120 150 0" transform="translate(429 74)"/>
+      </g>
+    </g>
+  </g>
+</svg>
