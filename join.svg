@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="628" viewBox="0 0 1200 628">
+  <defs>
+    <rect id="join-a" width="1104" height="532" x="48" y="48" rx="24"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="1200" height="628" fill="#FFF"/>
+    <path fill="#FF006C" d="M80,580 L1120,580 C1120,588.836556 1112.83656,596 1104,596 L96,596 C87.163444,596 80,588.836556 80,580 L80,580 L80,580 Z" opacity=".5"/>
+    <mask id="join-b" fill="#fff">
+      <use xlink:href="#join-a"/>
+    </mask>
+    <use fill="#FF006C" xlink:href="#join-a"/>
+    <g mask="url(#join-b)">
+      <g transform="translate(182 224)">
+        <path stroke="#062CFF" stroke-linecap="square" stroke-width="32" d="M825.418021,195.920834 C713.614196,190.693055 630.464265,190.693055 575.968226,195.920834 C521.472188,201.148613 453.599758,211.513006 372.350937,227.014014"/>
+        <text fill="#FFF" font-family="NotoSansDisplay-CondensedBlack, Noto Sans Display" font-size="192" font-style="condensed" font-weight="700">
+          <tspan x="0" y="205">Join today</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
