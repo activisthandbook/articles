@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="628" viewBox="0 0 1200 628">
+  <defs>
+    <rect id="tactics-a" width="1104" height="532" x="48" y="48" rx="24"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="1200" height="628" fill="#FFF"/>
+    <path fill="#FF006C" d="M80,580 L1120,580 C1120,588.836556 1112.83656,596 1104,596 L96,596 C87.163444,596 80,588.836556 80,580 L80,580 L80,580 Z" opacity=".5"/>
+    <mask id="tactics-b" fill="#fff">
+      <use xlink:href="#tactics-a"/>
+    </mask>
+    <use fill="#FF006C" xlink:href="#tactics-a"/>
+    <path stroke="#062CFF" stroke-linecap="square" stroke-width="32" d="M964,430.920834 C849.921941,425.693055 765.080632,425.693055 709.476074,430.920834 C653.871515,436.148613 581.24015,447.373709 491.581979,464.596122" mask="url(#tactics-b)"/>
+    <g mask="url(#tactics-b)">
+      <g transform="translate(184 204)">
+        <text font-family="NotoSansDisplay-CondensedBlack, Noto Sans Display" font-size="192" font-style="condensed" font-weight="700">
+          <tspan x="269" y="235" fill="#FFF">Tactics</tspan>
+        </text>
+        <path fill="#FFF" fill-rule="nonzero" d="M180,20 L148,20 C144,8 133,0 120,0 C107,0 96,8 92,20 L60,20 C49,20 40,29 40,40 L40,160 C40,171 49,180 60,180 L180,180 C191,180 200,171 200,160 L200,40 C200,29 191,20 180,20 M120,20 C126,20 130,25 130,30 C130,35 125,40 120,40 C115,40 110,35 110,30 C110,25 114,20 120,20 M140,130 L70,130 L70,110 L140,110 M170,90 L70,90 L70,70 L170,70"/>
+        <path fill="#FFF" fill-rule="nonzero" d="M20,200 L160,200 L160,220 L20,220 C9,220 0,211 0,200 L0,60 L20,60"/>
+      </g>
+    </g>
+  </g>
+</svg>
