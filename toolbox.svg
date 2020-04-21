@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="628" viewBox="0 0 1200 628">
+  <defs>
+    <rect id="toolbox-a" width="1104" height="532" x="48" y="48" rx="24"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="1200" height="628" fill="#FFF"/>
+    <path fill="#FF006C" d="M80,580 L1120,580 C1120,588.836556 1112.83656,596 1104,596 L96,596 C87.163444,596 80,588.836556 80,580 L80,580 L80,580 Z" opacity=".5"/>
+    <mask id="toolbox-b" fill="#fff">
+      <use xlink:href="#toolbox-a"/>
+    </mask>
+    <use fill="#FF006C" xlink:href="#toolbox-a"/>
+    <g mask="url(#toolbox-b)">
+      <g transform="translate(155 221)">
+        <text font-family="NotoSansDisplay-CondensedBlack, Noto Sans Display" font-size="192" font-style="condensed" font-weight="700">
+          <tspan x="244" y="218" fill="#FFF">Toolbox</tspan>
+        </text>
+        <path fill="#062CFF" fill-rule="nonzero" d="M137.8,104.375 L197.8,164.375 L176.7,185.975 L116.7,125.975 L137.8,104.375 Z M98.9,8.775 L77.8,30.375 L91.9,44.375 L84.8,51.475 L102.7,69.275 L81.6,90.375 L63.9,72.575 L56.7,79.575 L42.2,65.475 L42.2,94.075 L35.2,101.075 L2.4158453e-13,65.475 L7,58.475 L35.1,58.475 L21.1,44.375 L56.7,8.775 C68.4,-2.925 87.2,-2.925 98.9,8.775 Z"/>
+        <path fill="#FFF" fill-rule="nonzero" d="M154.4,73.9 C150.5,73.9 146.3,73.4 143,72 L29.1,185.4 L8,164.3 L121.4,50.4 C120,47.1 119.4,42.9 119.4,39.2 C119.4,19.5 135,4 154.4,4 C160.3,4 165.5,5.4 170.2,8.2 L143.5,34.9 L158.5,49.9 L185.2,23.2 C188,27.9 189.4,32.9 189.4,39.2 C189.4,58.4 173.9,73.9 154.4,73.9 Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
