@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="628" viewBox="0 0 1200 628">
+  <defs>
+    <rect id="communication-a" width="1104" height="532" x="48" y="48" rx="24"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="1200" height="628" fill="#FFF"/>
+    <path fill="#FF006C" d="M80,580 L1120,580 C1120,588.836556 1112.83656,596 1104,596 L96,596 C87.163444,596 80,588.836556 80,580 L80,580 L80,580 Z" opacity=".5"/>
+    <mask id="communication-b" fill="#fff">
+      <use xlink:href="#communication-a"/>
+    </mask>
+    <use fill="#FF006C" xlink:href="#communication-a"/>
+    <g mask="url(#communication-b)">
+      <g transform="translate(111 218)">
+        <path fill="#062CFF" fill-rule="nonzero" d="M969,102 L949,102 L949,192 L819,192 L819,212 C819,217.522847 823.477153,222 829,222 L939,222 L979,262 L979,112 C979,106.477153 974.522847,102 969,102 Z"/>
+        <path fill="#FFF" fill-rule="nonzero" d="M927,10 C927,4.4771525 924.522847,1.42108547e-14 919,1.42108547e-14 L10,1.54888574 C4.4771525,1.54888574 0,6.02603824 0,11.5488857 L0,213.548886 L40,173.548886 L919,172 C924.522847,172 929,167.522847 929,162 L927,10 Z"/>
+        <text font-family="NotoSansDisplay-CondensedBlack, Noto Sans Display" font-size="128" font-style="condensed" font-weight="700">
+          <tspan x="28" y="137" fill="#FF006C">Communication</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
