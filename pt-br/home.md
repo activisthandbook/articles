@@ -2,13 +2,13 @@
 title: Activist Handbook
 description: 
 published: true
-date: 2020-11-23T22:05:58.519Z
+date: 2020-11-23T22:07:07.615Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-23T22:05:58.519Z
 ---
 
-# Activist Handbook
+##### Por ativistas, para ativistas.
 ---
 Acivist Handbook é um site colaborativo, no estilo da Wikipédia, onde organizações e indivíduos podem compartilhar conhecimento e experiências sobre ativismo. Nós te convidamos a patcicipar desse projeto internacional!
 
