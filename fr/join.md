@@ -2,7 +2,7 @@
 title: Rejoignez notre projet
 description:  Impliquez-vous et rejoignez notre équipe de bénévoles!
 published: true
-date: 2020-12-29T22:28:54.423Z
+date: 2020-12-29T22:29:53.801Z
 tags: joindre, rejoindre, s'impliquer
 editor: markdown
 dateCreated: 2020-12-29T22:17:26.934Z
