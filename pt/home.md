@@ -2,9 +2,9 @@
 title: Activist Handbook
 description: 
 published: true
-date: 2020-11-23T22:38:56.066Z
+date: 2020-11-23T22:38:58.199Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-11-23T22:33:27.026Z
 ---
 

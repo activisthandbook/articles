@@ -1,3 +1,13 @@
+---
+title: README
+description: 
+published: true
+date: 2020-04-25T17:07:48.178Z
+tags: 
+editor: undefined
+dateCreated: 2020-03-28T10:41:09.523Z
+---
+
 # Activist Handbook
 *A collaborative manual for activists, by activists*
 
