@@ -2,7 +2,7 @@
 title: Vacancies for Activist Handbook
 description: Join our international change-makers community!
 published: true
-date: 2021-04-04T11:11:57.569Z
+date: 2021-04-04T11:13:41.563Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-16T08:45:47.034Z
@@ -10,7 +10,7 @@ dateCreated: 2020-06-16T08:45:47.034Z
 
 Activist Handbook's international community of change-makers is growing fast. We are looking for people to take the lead in our coordination team. **Currently, we have the following vacancies:**
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr6GqOJ7587fNbEn?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr6GqOJ7587fNbEn?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="300" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 -   [**Finance Coordinator**](finance-coordinator) (8 hours per week)
 
