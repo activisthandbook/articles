@@ -2,7 +2,7 @@
 title: Vacancies for Activist Handbook
 description: Join our international change-makers community!
 published: true
-date: 2021-04-04T11:14:20.362Z
+date: 2021-04-04T12:06:10.601Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-16T08:45:47.034Z
@@ -10,7 +10,7 @@ dateCreated: 2020-06-16T08:45:47.034Z
 
 Activist Handbook's international community of change-makers is growing fast. We are looking for people to take the lead in our coordination team. **Currently, we have the following vacancies:**
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr6GqOJ7587fNbEn?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="300" style="background: transparent; border: 1px solid #ccc;margin-top:16px"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrwlhB02r8fij4TW?backgroundColor=purple&viewControls=off" frameborder="0" onmousewheel="" width="100%" height="300" style="background: transparent; border: 1px solid #ccc;margin-top:16px"></iframe>
 
 > We believe that diversity strengthens our organisation. That is why we encourage people of all genders, sexual preferences and ethnic backgrounds, including people with disabilities, to join our cause!
 > 
