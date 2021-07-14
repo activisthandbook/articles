@@ -2,7 +2,7 @@
 title: Course: Web development for rebels
 description: Part of Rebel Academy, offered by Activist Handbook
 published: true
-date: 2021-07-14T10:56:52.511Z
+date: 2021-07-14T10:57:35.450Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-24T13:13:30.257Z
@@ -15,7 +15,7 @@ dateCreated: 2021-06-24T13:13:30.257Z
 # Sign up to enrol
 
 This course is still in development, so it is not yet possible to sign up.
-<iframe src="https://tally.so/embed/31VG4w?hideTitle=1&alignLeft=1" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0" title="Course: Web development for rebels"></iframe>
+<iframe src="https://tally.so/embed/31VG4w?hideTitle=1&alignLeft=1" border="0" marginheight="0" marginwidth="0" title="Course: Web development for rebels"></iframe>
 
 # Programme
 
