@@ -2,7 +2,7 @@
 title: Week 1: Intro to web development
 description: 
 published: true
-date: 2021-08-14T13:42:41.127Z
+date: 2021-08-14T13:48:41.108Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-14T13:34:38.049Z
@@ -12,3 +12,9 @@ dateCreated: 2021-08-14T13:34:38.049Z
 
 <iframe src="https://app.pitch.com/app/embed/54e3f307-b163-4aae-812a-6bfe82ee548d" allow="fullscreen" allowfullscreen="" width="100%" height="360" style="border:0"></iframe>
 
+# Installations
+Feel free to install the following tools beforehand. Don't worry if you need some more help, we'll also walk you through installing them during the session.
+- [VS Code](https://code.visualstudio.com/download)
+- [Node.js](https://nodejs.org)
+- [Yarn](https://yarnpkg.com/getting-started/install)
+- [Git](https://git-scm.com/downloads)
