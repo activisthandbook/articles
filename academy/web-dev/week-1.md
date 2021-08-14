@@ -1,8 +1,8 @@
 ---
-title: Week 1
+title: Week 1: Intro to web development
 description: 
 published: true
-date: 2021-08-14T13:35:00.991Z
+date: 2021-08-14T13:36:20.627Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-14T13:34:38.049Z
