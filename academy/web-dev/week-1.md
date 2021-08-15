@@ -2,7 +2,7 @@
 title: Week 1: Intro to web development
 description: Rebel Academy | Web development course
 published: true
-date: 2021-08-15T09:39:02.361Z
+date: 2021-08-15T09:44:13.104Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-14T13:34:38.049Z
@@ -10,6 +10,9 @@ dateCreated: 2021-08-14T13:34:38.049Z
 
 **In this session, you will learn about the basics of web development. We'll talk about what you  can expect from this course, share some useful resources for self-learning and install a few useful tools. After this session, you will understand better how websites work, be able to write in Markdown and share code using Git.**
 
+> Like all articles on Activist Handbook, we encourage everyone to make improvements! Just create an account to start editing. 
+>
+> Unlike the rest of this website, these articles are written in Markdown, instead of using the visual editor. That way, you can get to practice using Markdown.
 
 <div style="position: relative;padding-bottom: 56.25%;height: 0;margin-top:16px;">
   <iframe src="https://app.pitch.com/app/embed/54e3f307-b163-4aae-812a-6bfe82ee548d" allow="fullscreen" allowfullscreen="" width="100%" height="100%" style="border:0;position: absolute;top: 0;left: 0;"></iframe>
