@@ -1,8 +1,8 @@
 ---
 title: Week 1: Intro to web development
-description: 
+description: Rebel Academy | Web development course
 published: true
-date: 2021-08-15T09:05:37.109Z
+date: 2021-08-15T09:07:48.641Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-14T13:34:38.049Z
