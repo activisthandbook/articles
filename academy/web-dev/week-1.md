@@ -2,7 +2,7 @@
 title: Week 1: Intro to web development
 description: Rebel Academy | Web development course
 published: true
-date: 2021-08-15T09:07:48.641Z
+date: 2021-08-15T09:39:02.361Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-14T13:34:38.049Z
@@ -32,5 +32,5 @@ Feel free to install the following tools beforehand. Don't worry if you need som
 # Group project
 - Write an article in markdown about the basics of web development (explain the following terms: internet, browser, server, HTML, CSS, Javascript)
 - Compile a list of useful resources for people who want to learn more.
-- Work together and share all of this in our GitHub repository.
+- Work together and share all of this in our [GitHub repository](https://github.com/activisthandbook/web-dev-course).
 - Prepare a short presentation to share your work at next week’s workshop.
