@@ -2,7 +2,7 @@
 title: Week 1: Intro to web development
 description: Rebel Academy | Web development course
 published: true
-date: 2021-08-15T09:44:13.104Z
+date: 2021-08-15T09:44:50.082Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-14T13:34:38.049Z
@@ -14,16 +14,15 @@ dateCreated: 2021-08-14T13:34:38.049Z
 >
 > Unlike the rest of this website, these articles are written in Markdown, instead of using the visual editor. That way, you can get to practice using Markdown.
 
-<div style="position: relative;padding-bottom: 56.25%;height: 0;margin-top:16px;">
-  <iframe src="https://app.pitch.com/app/embed/54e3f307-b163-4aae-812a-6bfe82ee548d" allow="fullscreen" allowfullscreen="" width="100%" height="100%" style="border:0;position: absolute;top: 0;left: 0;"></iframe>
-</div>
-
-
 # Session details
 This session takes place on the **3rd of Oct 14:00 UTC ([add to Google Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=XzY4cjMwZWExNmNvM2FiYTI2Z3EzYWI5azhsMGtjYjlwODRyamliYTM4b3BqMmdocDZncDRhZDlvODhfMjAyMTEwMDNUMTQwMDAwWiBjb250YWN0QGFjdGl2aXN0aGFuZGJvb2sub3Jn&tmsrc=contact%40activisthandbook.org&scp=ALL))**.
 - **[☎️ Video call](https://meet.google.com/fzg-rqep-sdz)**
 - **[📝 Minutes](https://docs.google.com/document/d/1ywTgMs2byXCT-xl61VOuv-lwvRTUvsuYm76ZvJO_BdI/edit)**
 - **🔴 Recording:** Will be made available after the session.
+
+<div style="position: relative;padding-bottom: 56.25%;height: 0;margin-top:16px;">
+  <iframe src="https://app.pitch.com/app/embed/54e3f307-b163-4aae-812a-6bfe82ee548d" allow="fullscreen" allowfullscreen="" width="100%" height="100%" style="border:0;position: absolute;top: 0;left: 0;"></iframe>
+</div>
 
 # Installations
 Feel free to install the following tools beforehand. Don't worry if you need some more help, we'll also walk you through installing them during the session.
