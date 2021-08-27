@@ -2,7 +2,7 @@
 title: Week 3: Styling your webpage
 description: 
 published: true
-date: 2021-08-27T09:52:35.619Z
+date: 2021-08-27T09:53:22.541Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-27T09:34:34.025Z
@@ -27,3 +27,4 @@ You do not need to install anything for this session. We recommend you to use VS
 
 # Resources
 - [W3Schools: CSS Tutorial](https://www.w3schools.com/css/default.asp)
+- [Web.dev: Learn CSS](https://web.dev/learn/css/)
