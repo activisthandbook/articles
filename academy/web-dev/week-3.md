@@ -2,7 +2,7 @@
 title: Week 3: Styling your webpage
 description: 
 published: true
-date: 2021-08-27T09:45:44.670Z
+date: 2021-08-27T09:52:35.619Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-27T09:34:34.025Z
@@ -19,3 +19,11 @@ This session takes place on the 17th of Oct 14:00 UTC ([add to Google Calendar](
 <div style="position: relative;padding-bottom: 56.25%;height: 0;margin-top:16px;">
   <iframe src="https://pitch.com/embed/04fc30a7-f772-47ba-bcfb-8fcfbde2259d" allow="fullscreen" allowfullscreen="" width="100%" height="100%" style="border:0;position: absolute;top: 0;left: 0;"></iframe>
 </div>
+
+# Installations
+You do not need to install anything for this session. We recommend you to use VS Code to try out writing some CSS. You can just open the webpages you create in any browser that you prefer.
+
+# Group project
+
+# Resources
+- [W3Schools: CSS Tutorial](https://www.w3schools.com/css/default.asp)
