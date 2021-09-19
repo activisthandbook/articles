@@ -2,7 +2,7 @@
 title: Week 2: Structuring your webpage (HTML)
 description: 
 published: true
-date: 2021-09-19T11:24:18.198Z
+date: 2021-09-19T11:26:21.619Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:16:03.868Z
@@ -11,7 +11,7 @@ dateCreated: 2021-09-19T11:16:03.868Z
 **During this session, you will learn all about how to assemble together a web page using the building blocks of HTML.**
 
 # Session details
-This session takes place on the XX of XX 14:00 UTC (add to Google Calendar).
+This session takes place on the **17th of Oct 14:00 UTC**.
 - **☎️ Video call**
 - **📝 Minutes**
 - **🔴 Recording:** Will be made available after the session.
