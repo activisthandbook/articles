@@ -1,14 +1,14 @@
 ---
-title: Week 7
+title: Week 7: Connecting to a backend (Amplify)
 description: 
 published: true
-date: 2021-09-19T11:37:15.711Z
+date: 2021-09-19T11:38:50.803Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:22:18.090Z
 ---
 
-**Introduction**
+**During this session, you will learn how to authenticate users of your web app and save their data using AWS Amplify.**
 
 # Session details
 This session takes place on the **21 of Nov 14:00 UTC**.
