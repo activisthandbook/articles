@@ -1,8 +1,8 @@
 ---
-title: Week 5
+title: Week 5: Building components (Javascript & Vue)
 description: 
 published: true
-date: 2021-09-19T11:41:29.622Z
+date: 2021-09-19T11:42:26.400Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:19:32.672Z
@@ -11,7 +11,7 @@ dateCreated: 2021-09-19T11:19:32.672Z
 **During this session, you will learn how to build components in Vue to avoid writing repetative code.**
 
 # Session details
-This session takes place on the XX of XX 14:00 UTC (add to Google Calendar).
+This session takes place on the **7th of Nov 14:00 UTC**.
 - **☎️ Video call**
 - **📝 Minutes**
 - **🔴 Recording:** Will be made available after the session.
