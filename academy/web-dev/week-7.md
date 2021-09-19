@@ -2,7 +2,7 @@
 title: Week 7
 description: 
 published: true
-date: 2021-09-19T11:22:18.090Z
+date: 2021-09-19T11:37:15.711Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:22:18.090Z
@@ -11,7 +11,7 @@ dateCreated: 2021-09-19T11:22:18.090Z
 **Introduction**
 
 # Session details
-This session takes place on the XX of XX 14:00 UTC (add to Google Calendar).
+This session takes place on the **21 of Nov 14:00 UTC**.
 - **☎️ Video call**
 - **📝 Minutes**
 - **🔴 Recording:** Will be made available after the session.
