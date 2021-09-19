@@ -2,13 +2,13 @@
 title: Week 5
 description: 
 published: true
-date: 2021-09-19T11:19:59.189Z
+date: 2021-09-19T11:41:29.622Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:19:32.672Z
 ---
 
-**Introduction**
+**During this session, you will learn how to build components in Vue to avoid writing repetative code.**
 
 # Session details
 This session takes place on the XX of XX 14:00 UTC (add to Google Calendar).
