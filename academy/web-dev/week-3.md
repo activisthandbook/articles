@@ -2,7 +2,7 @@
 title: Week 3: Styling your webpage
 description: 
 published: true
-date: 2021-08-27T09:54:49.248Z
+date: 2021-09-19T11:26:59.919Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-27T09:34:34.025Z
@@ -11,7 +11,7 @@ dateCreated: 2021-08-27T09:34:34.025Z
 **In this session, you will learn how to style your webpages using CSS. We will show you how the CSS syntax works, what kind of properties can be styled, and how to select elements. As always, we have attached several useful resources to learn more about today's topics.**
 
 # Session details
-This session takes place on the 17th of Oct 14:00 UTC ([add to Google Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=XzY4cjMwZWExNmNvM2FiYTI2Z3EzYWI5azhsMGtjYjlwODRyamliYTM4b3BqMmdocDZncDRhZDlvODhfMjAyMTEwMTdUMTQwMDAwWiBjb250YWN0QGFjdGl2aXN0aGFuZGJvb2sub3Jn&tmsrc=contact%40activisthandbook.org&scp=ALL)).
+This session takes place on the **24th of Oct 14:00 UTC**.
 - ☎️ **[Video call](https://meet.google.com/rjm-vpte-kac)**
 - 📝 **[Minutes](https://docs.google.com/document/d/1IOTS5M7DwVCa7pz0_Ck2HjW8-2WmtVoKTuiD2t1X_-s/edit)**
 - 🔴 **Recording:** Will be made available after the session.
