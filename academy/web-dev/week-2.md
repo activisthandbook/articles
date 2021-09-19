@@ -2,13 +2,13 @@
 title: Week X
 description: 
 published: true
-date: 2021-09-19T11:16:03.868Z
+date: 2021-09-19T11:23:54.287Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:16:03.868Z
 ---
 
-**Introduction**
+**During this session, you will learn all about how to assemble together a web page using the building blocks of HTML.**
 
 # Session details
 This session takes place on the XX of XX 14:00 UTC (add to Google Calendar).
@@ -17,9 +17,8 @@ This session takes place on the XX of XX 14:00 UTC (add to Google Calendar).
 - **🔴 Recording:** Will be made available after the session.
 
 <div style="position: relative;padding-bottom: 56.25%;height: 0;margin-top:16px;">
-  <iframe src="https://app.pitch.com/app/embed/54e3f307-b163-4aae-812a-6bfe82ee548d" allow="fullscreen" allowfullscreen="" width="100%" height="100%" style="border:0;position: absolute;top: 0;left: 0;"></iframe>
+  <iframe src="https://pitch.com/embed/34a0793b-1323-48ed-8666-0c412e5b9db1" allow="fullscreen" allowfullscreen="" width="100%" height="100%" style="border:0;position: absolute;top: 0;left: 0;"></iframe>
 </div>
-
 
 # Installations
 
