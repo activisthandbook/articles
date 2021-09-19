@@ -2,7 +2,7 @@
 title: Week 4: Adding interactivity (Javascript & Vue)
 description: 
 published: true
-date: 2021-09-19T11:33:51.392Z
+date: 2021-09-19T11:35:48.186Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:16:41.859Z
