@@ -1,8 +1,8 @@
 ---
-title: Week 4
+title: Week 4: Adding interactivity (Javascript & Vue)
 description: 
 published: true
-date: 2021-09-19T11:16:41.859Z
+date: 2021-09-19T11:28:24.889Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:16:41.859Z
@@ -11,7 +11,7 @@ dateCreated: 2021-09-19T11:16:41.859Z
 **Introduction**
 
 # Session details
-This session takes place on the XX of XX 14:00 UTC (add to Google Calendar).
+This session takes place on the **31st of Oct 14:00 UTC**.
 - **☎️ Video call**
 - **📝 Minutes**
 - **🔴 Recording:** Will be made available after the session.
