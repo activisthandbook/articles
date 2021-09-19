@@ -2,7 +2,7 @@
 title: Week 3: Styling your webpage
 description: 
 published: true
-date: 2021-09-19T11:26:59.919Z
+date: 2021-09-19T11:32:26.838Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-27T09:34:34.025Z
@@ -17,7 +17,7 @@ This session takes place on the **24th of Oct 14:00 UTC**.
 - 🔴 **Recording:** Will be made available after the session.
 
 <div style="position: relative;padding-bottom: 56.25%;height: 0;margin-top:16px;">
-  <iframe src="https://pitch.com/embed/04fc30a7-f772-47ba-bcfb-8fcfbde2259d" allow="fullscreen" allowfullscreen="" width="100%" height="100%" style="border:0;position: absolute;top: 0;left: 0;"></iframe>
+  <iframe src="https://pitch.com/embed/87b5048b-3984-4a8e-8712-9057be6b0da9" allow="fullscreen" allowfullscreen="" width="100%" height="100%" style="border:0;position: absolute;top: 0;left: 0;"></iframe>
 </div>
 
 # Installations
