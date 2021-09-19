@@ -2,13 +2,13 @@
 title: Week 4: Adding interactivity (Javascript & Vue)
 description: 
 published: true
-date: 2021-09-19T11:28:47.963Z
+date: 2021-09-19T11:33:51.392Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:16:41.859Z
 ---
 
-**Introduction**
+**During this session, you will learn how to add interactivity to your web app using the *Vue* Javascript framework .**
 
 # Session details
 This session takes place on the **31st of Oct 14:00 UTC**.
