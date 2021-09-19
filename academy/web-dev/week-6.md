@@ -2,13 +2,13 @@
 title: Week 6: UI frameworks (Quasar)
 description: 
 published: true
-date: 2021-09-19T11:30:48.760Z
+date: 2021-09-19T11:40:25.575Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:12:24.402Z
 ---
 
-**Introduction**
+**During this session, you will learn how to build web apps faster using UI frameworks. We will be making use of the Quasar framework.**
 
 # Session details
 This session takes place on the 14th of Nov 14:00 UTC (add to Google Calendar).
