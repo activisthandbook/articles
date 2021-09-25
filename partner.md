@@ -2,7 +2,7 @@
 title: Let's work together
 description: Become a partner of Activist Handbook
 published: true
-date: 2021-09-25T13:08:57.443Z
+date: 2021-09-25T13:24:34.862Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-25T13:07:59.603Z
@@ -26,12 +26,12 @@ Your organisation can help make the Activist Handbook project a success in the f
 
 ## How we can help you
 Our amazing volunteers are happy to assist your movement in becoming more effective at change-making. Here is how we can help you:
-- **📕 Use our platform for internal guides**
+- **📕 Use our platform for internal guides:** To host our website, make use of Wiki.js, an open source software suite specifically developed for knowledge-sharing. Your movement can also make use of this platform to share internal guides for your volunteers.
 - **🙋‍♀️ Request articles:** Tell us what you would like to learn more about, so that we know what topics our community is interested in. Our content circle will do research and write guides based on the input you give.
-- **🎓 Get training from our volunteers:** We believe that 
+- **🎓 Get training from our volunteers:** We regularly host events where members of our community share their experiences and knowledge. These trainings are always free to join. Our event circle is happy to hear what your organisation would like to be trained in.
 - **📖 Access our 200+ community-writen articles:** All our articles are free to access. Allow your volunteers to work more effectively by giving them access to the largest activism library available online.
 
-> Still have questions? We highly recommend you to reach out to us: contact@activisthandbook.org
+> Convinced? Fill out our **[partnership form](https://airtable.com/shrPR6xjDVSJNttuj)**.
 
 # Our principles
 We are here for social, progressive and green rebels all over the globe. We only work together with organisations that align with our [principles](/en/about/principles).
