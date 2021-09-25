@@ -2,7 +2,7 @@
 title: Let's work together
 description: Become a partner of Activist Handbook
 published: true
-date: 2021-09-25T13:07:59.603Z
+date: 2021-09-25T13:08:57.443Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-25T13:07:59.603Z
@@ -30,6 +30,8 @@ Our amazing volunteers are happy to assist your movement in becoming more effect
 - **🙋‍♀️ Request articles:** Tell us what you would like to learn more about, so that we know what topics our community is interested in. Our content circle will do research and write guides based on the input you give.
 - **🎓 Get training from our volunteers:** We believe that 
 - **📖 Access our 200+ community-writen articles:** All our articles are free to access. Allow your volunteers to work more effectively by giving them access to the largest activism library available online.
+
+> Still have questions? We highly recommend you to reach out to us: contact@activisthandbook.org
 
 # Our principles
 We are here for social, progressive and green rebels all over the globe. We only work together with organisations that align with our [principles](/en/about/principles).
