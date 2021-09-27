@@ -2,7 +2,7 @@
 title: Let's work together
 description: Become a partner of Activist Handbook
 published: false
-date: 2021-09-27T07:32:14.586Z
+date: 2021-09-27T07:33:23.517Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-25T13:07:59.603Z
@@ -13,7 +13,7 @@ dateCreated: 2021-09-25T13:07:59.603Z
 > Let's talk! Fill out our **[partnership form](https://airtable.com/shrPR6xjDVSJNttuj)** or reach out to us via contact@activisthandbook.org
 
 # What is Activist Handbook?
-Activist Handbook is the Wikipedia for rebels. We write guides for activists all over the globe. Anyone can contribute and it's completely free & open source. To learn more, check out our [about page](/en/about).
+Activist Handbook is the Wikipedia for rebels. We work together with activists all over the globe to write guides on how to engage in effective change-making. Anyone can contribute and it's completely free & open source. To learn more, check out our [about page](/en/about).
 
 # Become a partner 🙌
 ## How you can help us
