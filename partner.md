@@ -2,7 +2,7 @@
 title: Let's work together
 description: Become a partner of Activist Handbook
 published: false
-date: 2021-09-27T07:31:53.559Z
+date: 2021-09-27T07:32:14.586Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-25T13:07:59.603Z
@@ -36,4 +36,4 @@ Our amazing volunteers are happy to assist your movement in becoming more effect
 # Our principles
 We are here for social, progressive and green rebels all over the globe. We believe that effective change-making is all about empowering marginalised communities and providing people with the right tools and training.
 
-To formulate these core ideas, we wrote a set of [principles](/en/about/principles). We only work together with organisations that align with these principles.
+To formulate these core ideas, we wrote a set of [principles](/en/about/principles). We only work together with organisations and movements that align with these principles.
