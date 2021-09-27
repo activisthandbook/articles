@@ -2,7 +2,7 @@
 title: Let's work together
 description: Become a partner of Activist Handbook
 published: false
-date: 2021-09-25T13:29:38.537Z
+date: 2021-09-27T07:31:10.157Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-25T13:07:59.603Z
@@ -34,4 +34,6 @@ Our amazing volunteers are happy to assist your movement in becoming more effect
 > Convinced? Fill out our **[partnership form](https://airtable.com/shrPR6xjDVSJNttuj)**.
 
 # Our principles
-We are here for social, progressive and green rebels all over the globe. We only work together with organisations that align with our [principles](/en/about/principles).
+We are here for social, progressive and green rebels all over the globe. We believe that effective change-making is all about empowering marginalised communities and providing people with the right tools and training.
+
+To formulate these core ideas, we wrote a set of [principles](/en/about/principles). We only work together with organisations that align with these principles.
