@@ -2,13 +2,13 @@
 title: Let's work together
 description: Become a partner of Activist Handbook
 published: false
-date: 2021-09-27T07:31:10.157Z
+date: 2021-09-27T07:31:53.559Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-25T13:07:59.603Z
 ---
 
-**Activist Handbook is a collaborative project by activists all over the globe.  We would love to partner up with your organisation. On this page, we explain how we could work together.**
+**Activist Handbook is a collaborative project by activists all over the globe.  We would love to partner up with your organisation or movement. On this page, we explain how we could work together.**
 
 > Let's talk! Fill out our **[partnership form](https://airtable.com/shrPR6xjDVSJNttuj)** or reach out to us via contact@activisthandbook.org
 
@@ -17,7 +17,7 @@ Activist Handbook is the Wikipedia for rebels. We write guides for activists all
 
 # Become a partner 🙌
 ## How you can help us
-Your organisation can help make the Activist Handbook project a success in the following ways:
+Your organisation or movement can help make the Activist Handbook project a success in the following ways:
 - **📝 Write or crosspost articles:** Maybe you already have some guides for activists that you would like to share with a larger audience. Or perhaps people in your organisation can share their experiences and knowledge in new articles.
 - **📢 Tell your community about us:** Promote us on your social media and newsletter, share our partnership on your website, share our articles with your members, mention us during events, etc.
 - **💰 Financial contribution:** No matter how small, any financial contribution is appreciated and will help us train more rebels.
