@@ -2,7 +2,7 @@
 title: Week 1: Intro to web development
 description: Rebel Academy | Web development course
 published: true
-date: 2021-09-29T09:07:19.031Z
+date: 2021-09-29T09:08:06.522Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-14T13:34:38.049Z
@@ -39,5 +39,6 @@ Before next Sunday, work together with your fellow students and prepare the foll
 - Prepare a short presentation to share your work at next week’s workshop.
 
 # Resources
+- [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics)
 - [Learn Markdown](https://daringfireball.net/projects/markdown/)
 - [Learn Git](https://www.atlassian.com/git)
