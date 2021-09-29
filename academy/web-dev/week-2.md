@@ -2,7 +2,7 @@
 title: Week 2: Structuring your webpage (HTML)
 description: 
 published: true
-date: 2021-09-29T09:15:22.904Z
+date: 2021-09-29T10:06:57.495Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:16:03.868Z
@@ -12,8 +12,8 @@ dateCreated: 2021-09-19T11:16:03.868Z
 
 # Session details
 This session takes place on the **17th of Oct 14:00 UTC**.
-- **☎️ Video call**
-- **📝 Minutes**
+- **☎️ [Video call](https://meet.google.com/fzg-rqep-sdz)**
+- **📝 [Minutes](https://docs.google.com/document/d/1cj_ovBIbyw38Umv6Rp8HzKZ3-ugPmwt0U3EPDgG5TvU/edit?usp=sharing)**
 - **🔴 Recording:** Will be made available after the session.
 
 <div style="position: relative;padding-bottom: 56.25%;height: 0;margin-top:16px;">
