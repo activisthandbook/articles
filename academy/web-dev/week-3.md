@@ -2,7 +2,7 @@
 title: Week 3: Styling your webpage
 description: 
 published: true
-date: 2021-09-19T11:32:26.838Z
+date: 2021-09-29T09:14:43.930Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-27T09:34:34.025Z
@@ -24,6 +24,13 @@ This session takes place on the **24th of Oct 14:00 UTC**.
 You do not need to install anything for this session. We recommend you to use VS Code to try out writing some CSS. You can just open the webpages you create in any browser that you prefer.
 
 # Group project
+Before next Sunday, work together with your fellow students on the following:
+- Improve your web development guide by adding information on Javascript.
+- Make your webpages look beautiful by using CSS.
+- Share all your work in our [GitHub repository](https://github.com/activisthandbook/web-dev-course/tree/main/week-3).
+- Prepare a short presentation to share your work at next week’s workshop.
+
+We made an [example CSS file](https://github.com/activisthandbook/web-dev-course/blob/main/week-3/example.css) to help you get started.
 
 # Resources
 - [W3Schools: CSS Tutorial](https://www.w3schools.com/css/default.asp)
