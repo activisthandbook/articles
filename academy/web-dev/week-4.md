@@ -2,7 +2,7 @@
 title: Week 4: Adding interactivity (Javascript & Vue)
 description: 
 published: true
-date: 2021-09-29T09:34:42.933Z
+date: 2021-09-29T09:38:07.751Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:16:41.859Z
@@ -33,3 +33,4 @@ We made an [example HTML file that uses Vue](https://github.com/activisthandbook
 # Resources
 - [Introduction to Vue](https://v3.vuejs.org/guide/introduction.html)
 - [Video series](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3/)
+- [Understanding Javascript frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)
