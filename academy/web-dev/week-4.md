@@ -2,7 +2,7 @@
 title: Week 4: Adding interactivity (Javascript & Vue)
 description: 
 published: true
-date: 2021-09-29T09:38:07.751Z
+date: 2021-09-29T10:08:13.794Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:16:41.859Z
@@ -12,8 +12,8 @@ dateCreated: 2021-09-19T11:16:41.859Z
 
 # Session details
 This session takes place on the **31st of Oct 14:00 UTC**.
-- **☎️ Video call**
-- **📝 Minutes**
+- **☎️ [Video call](https://meet.google.com/fzg-rqep-sdz)**
+- **📝 [Minutes](https://docs.google.com/document/d/12G0OqUMKQNQEKJqPngSckE92mSmy9wjwKWgNFnp65zA/edit?usp=sharing)**
 - **🔴 Recording:** Will be made available after the session.
 
 <div style="position: relative;padding-bottom: 56.25%;height: 0;margin-top:16px;">
