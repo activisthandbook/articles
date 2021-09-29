@@ -2,7 +2,7 @@
 title: Let's work together
 description: Become a partner of Activist Handbook
 published: false
-date: 2021-09-28T08:04:39.051Z
+date: 2021-09-29T12:17:03.419Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-25T13:07:59.603Z
@@ -34,6 +34,7 @@ Our amazing volunteers are happy to assist your movement in becoming more effect
 - **🙋‍♀️ Request articles:** Tell us what you would like to learn more about, so that we know what topics our community is interested in. Our content circle will do research and write guides based on the input you give.
 - **🎓 Get training from our volunteers:** We regularly host events where members of our community share their experiences and knowledge. These trainings are always free to join. Our event circle is happy to hear what your organisation would like to be trained in.
 - **📖 Access our 200+ community-writen articles:** All our articles are free to access. Allow your volunteers to work more effectively by giving them access to the largest activism library available online.
+- **🦋 Early access to [rebel.tools](https://rebel.tools):** Our tech circle is building an all-in-one digital toolset for organisers and mobilisers. As partner organisation, you will be the first to be able to use the tools.
 
 > Convinced? Fill out our **[partnership form](https://airtable.com/shrPR6xjDVSJNttuj)**.
 
