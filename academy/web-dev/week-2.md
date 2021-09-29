@@ -2,7 +2,7 @@
 title: Week 2: Structuring your webpage (HTML)
 description: 
 published: true
-date: 2021-09-29T08:54:11.107Z
+date: 2021-09-29T08:55:47.712Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:16:03.868Z
@@ -24,10 +24,13 @@ This session takes place on the **17th of Oct 14:00 UTC**.
 Nof installations are required for this week.
 
 # Group project
+Before next Sunday, work together with your fellow students and prepare the following:
 - Turn the markdown files of last week into HTML files.
 - Improve the guide by looking up more info about HTML and CSS.
-- Work together and share all of this in our [GitHub repository](https://github.com/activisthandbook/web-dev-course).
+- Share all of this in our [GitHub repository](https://github.com/activisthandbook/web-dev-course).
 - Prepare a short presentation to share your work at next week’s workshop.
+
+We made an [example HTML file](https://github.com/activisthandbook/web-dev-course/blob/main/week-2/example.html) in our GitHub repository to help you get started.
 
 # Resources
 - [Converting markdown to HTML](https://codingnconcepts.com/markdown/markdown-vs-html/)
