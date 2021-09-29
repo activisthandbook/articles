@@ -2,7 +2,7 @@
 title: Week 5: Building components (Javascript & Vue)
 description: 
 published: true
-date: 2021-09-29T09:47:48.120Z
+date: 2021-09-29T10:09:18.455Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:19:32.672Z
@@ -12,8 +12,8 @@ dateCreated: 2021-09-19T11:19:32.672Z
 
 # Session details
 This session takes place on the **7th of Nov 14:00 UTC**.
-- **☎️ Video call**
-- **📝 Minutes**
+- **☎️ [Video call](https://meet.google.com/fzg-rqep-sdz)**
+- **📝 [Minutes](https://docs.google.com/document/d/13p2FGk6AVNzerNXBZiTST727pcUoEANwVLEwiI8q8xk/edit?usp=sharing)**
 - **🔴 Recording:** Will be made available after the session.
 
 <div style="position: relative;padding-bottom: 56.25%;height: 0;margin-top:16px;">
