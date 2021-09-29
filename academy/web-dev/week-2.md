@@ -2,7 +2,7 @@
 title: Week 2: Structuring your webpage (HTML)
 description: 
 published: true
-date: 2021-09-29T08:55:47.712Z
+date: 2021-09-29T08:56:05.327Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:16:03.868Z
@@ -21,7 +21,7 @@ This session takes place on the **17th of Oct 14:00 UTC**.
 </div>
 
 # Installations
-Nof installations are required for this week.
+No installations are required for this week.
 
 # Group project
 Before next Sunday, work together with your fellow students and prepare the following:
