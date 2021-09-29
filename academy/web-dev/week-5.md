@@ -2,7 +2,7 @@
 title: Week 5: Building components (Javascript & Vue)
 description: 
 published: true
-date: 2021-09-29T10:18:20.098Z
+date: 2021-09-29T10:19:40.608Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:19:32.672Z
@@ -43,3 +43,6 @@ For next week, prepare the following together with your fellow students:
 - Prepare a short presentation to share your work at next week’s workshop.
 
 We have not created a full example project for this week. However, we have added some [instructions](https://github.com/activisthandbook/web-dev-course/blob/main/week-5/example.md) on how to easily set up a Vue project using the Vue CLI
+
+# Resources
+- [Using the Vue CLU](https://cli.vuejs.org/guide/prototyping.html)
