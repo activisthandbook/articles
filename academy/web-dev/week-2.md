@@ -2,7 +2,7 @@
 title: Week 2: Structuring your webpage (HTML)
 description: 
 published: true
-date: 2021-09-19T11:26:21.619Z
+date: 2021-09-29T08:50:43.239Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:16:03.868Z
@@ -21,5 +21,10 @@ This session takes place on the **17th of Oct 14:00 UTC**.
 </div>
 
 # Installations
+Nof installations are required for this week.
 
 # Group project
+- Turn the markdown files of last week into HTML files.
+- Improve the guide by looking up more info about HTML and CSS.
+- Work together and share all of this in our [GitHub repository](https://github.com/activisthandbook/web-dev-course).
+- Prepare a short presentation to share your work at next week’s workshop.
