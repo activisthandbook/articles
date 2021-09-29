@@ -2,7 +2,7 @@
 title: Week 5: Building components (Javascript & Vue)
 description: 
 published: true
-date: 2021-09-29T10:09:18.455Z
+date: 2021-09-29T10:18:20.098Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:19:32.672Z
@@ -33,4 +33,13 @@ In the following steps, we assume you already have Yarn installed:
 - **Step 3:** To start a development server, run the following command *inside your project directory*: 
 ```vue serve```
 
+Alternatively, you can use the graphical user interface to create a new project. Start the GUI with this command: ```vue ui```
+
 # Group project
+For next week, prepare the following together with your fellow students:
+- Turn all the guides that you created during previous sessions into a Vue project. Use Vue components to reuse pieces of code, such as a navigation bar.
+- Add a way for users to bookmark articles and make a page that shows all bookmarked articles. For now, you will not be able to save their bookmarks when the user reloads the page. During the last session, we will explain how to save user data on a server.
+- Share all of this in our [GitHub repository](https://github.com/activisthandbook/web-dev-course).
+- Prepare a short presentation to share your work at next week’s workshop.
+
+We have not created a full example project for this week. However, we have added some [instructions](https://github.com/activisthandbook/web-dev-course/blob/main/week-5/example.md) on how to easily set up a Vue project using the Vue CLI
