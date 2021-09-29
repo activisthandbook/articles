@@ -2,7 +2,7 @@
 title: Week 2: Structuring your webpage (HTML)
 description: 
 published: true
-date: 2021-09-29T08:56:05.327Z
+date: 2021-09-29T08:58:18.522Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:16:03.868Z
