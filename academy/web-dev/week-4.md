@@ -2,7 +2,7 @@
 title: Week 4: Adding interactivity (Javascript & Vue)
 description: 
 published: true
-date: 2021-09-29T09:25:24.673Z
+date: 2021-09-29T09:30:36.214Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:16:41.859Z
@@ -24,3 +24,11 @@ This session takes place on the **31st of Oct 14:00 UTC**.
 You do not need to install anything for this session. You can just [import Vue](https://vuejs.org/v2/guide/installation.html#CDN) using the HTML ```<script>``` tag. Next week, we will show you how you can also use a package manager like Yarn to add Vue to your project.
 
 # Group project
+> This week, you will be adding some interactivity to your web page for the first time.
+>
+> You may find this session a bit more difficult than previous weeks. Know that our trainers are happy to answer any questions you may have,
+
+We made an [example HTML file that uses Vue](https://github.com/activisthandbook/web-dev-course/blob/main/week-4/example.html) to help you get started.
+
+# Resources
+- [Introduction to Vue](https://v3.vuejs.org/guide/introduction.html)
