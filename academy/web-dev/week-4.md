@@ -2,7 +2,7 @@
 title: Week 4: Adding interactivity (Javascript & Vue)
 description: 
 published: true
-date: 2021-09-29T09:30:36.214Z
+date: 2021-09-29T09:31:34.921Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:16:41.859Z
@@ -32,3 +32,8 @@ We made an [example HTML file that uses Vue](https://github.com/activisthandbook
 
 # Resources
 - [Introduction to Vue](https://v3.vuejs.org/guide/introduction.html)
+
+
+<div style="position: relative;padding-bottom: 56.25%;height: 0;margin-top:16px;">
+  <iframe src="https://player.vimeo.com/video/429439600?h=73c87a798c&autoplay=1&app_id=122963" allow="fullscreen" allowfullscreen="" width="100%" height="100%" style="border:0;position: absolute;top: 0;left: 0;"></iframe>
+</div>
