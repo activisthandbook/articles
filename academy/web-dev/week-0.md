@@ -2,14 +2,13 @@
 title: Week 0: Getting to know each other 
 description: Web development course
 published: true
-date: 2021-09-29T10:05:05.586Z
+date: 2021-09-29T10:05:17.821Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-29T09:59:55.300Z
 ---
 
 **During this session, we will introduce the course and get to know each other. Feel free to check out the session pages for the next weeks so you can get an idea of what we will be working on.**
-
 # Session details
 This session takes place on the 3th of Oct 14:00 UTC.
 - **☎️ [Video call](https://meet.google.com/fzg-rqep-sdz)**
