@@ -2,7 +2,7 @@
 title: Week 2: Structuring your webpage (HTML)
 description: 
 published: true
-date: 2021-09-29T08:50:43.239Z
+date: 2021-09-29T08:54:11.107Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:16:03.868Z
@@ -28,3 +28,9 @@ Nof installations are required for this week.
 - Improve the guide by looking up more info about HTML and CSS.
 - Work together and share all of this in our [GitHub repository](https://github.com/activisthandbook/web-dev-course).
 - Prepare a short presentation to share your work at next week’s workshop.
+
+# Resources
+- [Converting markdown to HTML](https://codingnconcepts.com/markdown/markdown-vs-html/)
+- [HTML elements](https://www.w3schools.com/html/html_elements.asp)
+- [Complete list of HTML tags](https://www.w3schools.com/TAGs/)
+- [HTML Attributes](https://www.w3schools.com/tags/ref_attributes.asp)
