@@ -2,7 +2,7 @@
 title: Week 4: Adding interactivity (Javascript & Vue)
 description: 
 published: true
-date: 2021-09-19T11:35:48.186Z
+date: 2021-09-29T09:25:24.673Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-19T11:16:41.859Z
@@ -21,5 +21,6 @@ This session takes place on the **31st of Oct 14:00 UTC**.
 </div>
 
 # Installations
+You do not need to install anything for this session. You can just [import Vue](https://vuejs.org/v2/guide/installation.html#CDN) using the HTML ```<script>``` tag. Next week, we will show you how you can also use a package manager like Yarn to add Vue to your project.
 
 # Group project
