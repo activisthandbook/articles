@@ -2,7 +2,7 @@
 title: Week 1: Intro to web development
 description: Rebel Academy | Web development course
 published: true
-date: 2021-09-29T09:09:06.806Z
+date: 2021-10-09T09:56:13.280Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-14T13:34:38.049Z
@@ -30,6 +30,7 @@ Feel free to install the following tools beforehand. Don't worry if you need som
 - [Node.js](https://nodejs.org)
 - [Yarn](https://yarnpkg.com/getting-started/install)
 - [Git](https://git-scm.com/downloads)
+- [GitHub Desktop](https://desktop.github.com)
 
 # Group project
 Before next Sunday, work together with your fellow students and prepare the following:
