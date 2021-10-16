@@ -1,8 +1,8 @@
 ---
 title: Let's work together
 description: Become a partner of Activist Handbook
-published: false
-date: 2021-10-16T11:40:24.124Z
+published: true
+date: 2021-10-16T14:09:38.034Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-25T13:07:59.603Z
