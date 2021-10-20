@@ -2,7 +2,7 @@
 title: Let's work together
 description: Become a partner of Activist Handbook
 published: true
-date: 2021-10-20T10:54:22.789Z
+date: 2021-10-20T10:55:46.741Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-25T13:07:59.603Z
@@ -10,15 +10,10 @@ dateCreated: 2021-09-25T13:07:59.603Z
 
 **Activist Handbook is a collaborative project by activists all over the globe.  We would love to partner up with your organisation or movement. On this page, we explain how we could work together.**
 
-> Excited to work together? We recommend you to read this page carefully first. 
+> We recommend you to read this page carefully first. 
 >
-> Then, fill out our **[partnership form](https://airtable.com/shrPR6xjDVSJNttuj)** or reach out to us via contact@activisthandbook.org
+> Convinced? Schedule a video call using our **[partnership form](https://calendly.com/activisthandbook/partner)** or reach out to us via contact@activisthandbook.org
 
-<!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/activisthandbook/partner'});return false;">Schedule time with me</a>
-<!-- Calendly link widget end -->
 
 # What is Activist Handbook?
 Activist Handbook is the Wikipedia for rebels. We work together with activists all over the globe to write guides on how to engage in effective change-making. Anyone can contribute and it's completely free & open source. To learn more, check out our [about page](/en/about).
