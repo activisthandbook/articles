@@ -2,7 +2,7 @@
 title: Let's work together
 description: Become a partner of Activist Handbook
 published: true
-date: 2021-10-20T10:53:20.945Z
+date: 2021-10-20T10:54:22.789Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-25T13:07:59.603Z
@@ -14,10 +14,11 @@ dateCreated: 2021-09-25T13:07:59.603Z
 >
 > Then, fill out our **[partnership form](https://airtable.com/shrPR6xjDVSJNttuj)** or reach out to us via contact@activisthandbook.org
 
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/activisthandbook/partner?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=d70057" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/activisthandbook/partner'});return false;">Schedule time with me</a>
+<!-- Calendly link widget end -->
 
 # What is Activist Handbook?
 Activist Handbook is the Wikipedia for rebels. We work together with activists all over the globe to write guides on how to engage in effective change-making. Anyone can contribute and it's completely free & open source. To learn more, check out our [about page](/en/about).
