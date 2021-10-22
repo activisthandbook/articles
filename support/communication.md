@@ -2,7 +2,7 @@
 title: Support: Communication circle
 description: 
 published: true
-date: 2021-10-22T13:37:42.871Z
+date: 2021-10-22T13:38:20.828Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-26T15:33:31.417Z
@@ -24,4 +24,4 @@ dateCreated: 2021-04-26T15:33:31.417Z
 -   Outreach officer
 -   Volunteer recruiter
 
-<iframe width="768" height="432" src="https://miro.com/app/embed/o9J_lpRWET8=/?pres=1&frameId=3074457366206672200" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/o9J_lpRWET8=/?moveToViewport=-8097,4762,6064,3322" frameBorder="0" scrolling="no" allowFullScreen></iframe>
