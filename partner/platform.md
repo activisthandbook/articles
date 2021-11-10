@@ -2,7 +2,7 @@
 title: Opening up our platform
 description: Partners can use our platform to publish guides
 published: true
-date: 2021-11-10T10:31:47.566Z
+date: 2021-11-10T10:33:01.444Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-10T10:09:00.563Z
@@ -12,6 +12,10 @@ dateCreated: 2021-11-10T10:09:00.563Z
 
 > *Want to learn more about how we can collaborate? Find out more about why your movement should* [*_partner up with Activist Handbook_*](/partner)*.*
 
+<div style="position: relative;padding-bottom: 56.25%;height: 0;margin-top:16px;background:#eee">
+  <iframe src="https://pitch.com/embed/c34d359a-b1ff-40a9-b7e7-4489f17c8a0b" allow="fullscreen" allowfullscreen="" width="100%" height="100%" style="border:0;position: absolute;top: 0;left: 0;"></iframe>
+</div>
+
 # Our open approach
 
 Before going into why we take an open approach, lets first briefly look at what it means to us to be an ‘open platform’:
@@ -20,10 +24,6 @@ Before going into why we take an open approach, lets first briefly look at what 
 -   **🔓 Accessible:** Our platform is publicly available to the public and we do our very best to make all our content as accessible as possible through the language and non-formal education methods we use.
 -   **🔄 Reusable:** All our content may be redistributed and adapted, as long as we are given credit as authors, it is for non-commercial purposes and the content is shared under the same [_Creative Commons licence_](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 -   **📝 Editable**: Anyone who agrees with our principles can contribute to our shared knowledge base. And we make it as easy for people to put their experiences in words, by writing elaborate guides on how to create good guides.
-
-<div style="position: relative;padding-bottom: 56.25%;height: 0;margin-top:16px;background:#eee">
-  <iframe src="https://pitch.com/embed/c34d359a-b1ff-40a9-b7e7-4489f17c8a0b" allow="fullscreen" allowfullscreen="" width="100%" height="100%" style="border:0;position: absolute;top: 0;left: 0;"></iframe>
-</div>
 
 
 # Gatekeeping is bad
