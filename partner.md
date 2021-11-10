@@ -2,7 +2,7 @@
 title: Let's work together
 description: Become a partner of Activist Handbook
 published: true
-date: 2021-11-10T10:07:17.730Z
+date: 2021-11-10T10:31:02.827Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-25T13:07:59.603Z
@@ -18,7 +18,7 @@ dateCreated: 2021-09-25T13:07:59.603Z
 # What is Activist Handbook?
 Activist Handbook is the Wikipedia for rebels. We work together with activists all over the globe to write guides on how to engage in effective change-making. Anyone can contribute and it's completely free & open source. To learn more, check out our [about page](/en/about).
 
-<div style="position: relative;padding-bottom: 56.25%;height: 0;margin-top:16px;">
+<div style="position: relative;padding-bottom: 56.25%;height: 0;margin-top:16px;background:#eee">
   <iframe src="https://pitch.com/embed/180f8fdc-b9cb-4a84-8906-20ac0d2d7472" allow="fullscreen" allowfullscreen="" width="100%" height="100%" style="border:0;position: absolute;top: 0;left: 0;"></iframe>
 </div>
 
