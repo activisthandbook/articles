@@ -2,7 +2,7 @@
 title: Opening up our platform
 description: Partners can use our platform to publish guides
 published: true
-date: 2021-11-10T10:30:04.014Z
+date: 2021-11-10T10:30:06.919Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-10T10:09:00.563Z
