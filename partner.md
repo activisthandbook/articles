@@ -2,7 +2,7 @@
 title: Let's work together
 description: Become a partner of Activist Handbook
 published: true
-date: 2021-11-10T08:58:53.317Z
+date: 2021-11-10T10:07:17.730Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-25T13:07:59.603Z
@@ -26,7 +26,7 @@ Activist Handbook is the Wikipedia for rebels. We work together with activists a
 
 ## How we can help you
 Our amazing volunteers are happy to assist your movement in becoming more effective at change-making. Here is how we can help you:
-- **📕 Use our platform for internal guides:** To host our website, make use of Wiki.js, an open source software suite specifically developed for knowledge-sharing. Your movement can also make use of this platform to share internal guides for your volunteers.
+- **📕 [Use our platform](platform) for internal guides:** To host our website, make use of Wiki.js, an open source software suite specifically developed for knowledge-sharing. Your movement can also make use of this platform to share internal guides for your volunteers.
 - **🙋‍♀️ Suggest articles we should write:** Tell us what you would like to learn more about, so that we know what topics our community is interested in. Our content circle does research and writes guides based on the input of our community.
 - **🎓 Get training from our volunteers:** We regularly host events where members of our community share their experiences and knowledge. These trainings are always free to join. Our event circle is happy to hear what your organisation would like to be trained in.
 - **📖 Access our 200+ community-writen articles:** All our articles are free to access. Allow your volunteers to work more effectively by giving them access to the largest activism library available online.
