@@ -2,7 +2,7 @@
 title: Support: Communication circle
 description: 
 published: true
-date: 2021-10-22T13:38:20.828Z
+date: 2021-11-11T13:09:48.981Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-26T15:33:31.417Z
@@ -23,5 +23,3 @@ dateCreated: 2021-04-26T15:33:31.417Z
 -   [Communication coordinator](/en/support/core/communications-coordinator)
 -   Outreach officer
 -   Volunteer recruiter
-
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/o9J_lpRWET8=/?moveToViewport=-8097,4762,6064,3322" frameBorder="0" scrolling="no" allowFullScreen></iframe>
