@@ -2,7 +2,7 @@
 title: Guides for volunteers 📖
 description: Articles to help you as contributor to Activist Handbook 
 published: true
-date: 2021-11-11T14:26:44.819Z
+date: 2021-11-11T14:41:46.043Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-17T10:25:40.098Z
@@ -28,7 +28,6 @@ We try to make our organisation accessible to everyone. Read our article on [**a
 
 -   [**Our organisation**](organisation)**:** We work with *circles* and *roles*. Both have clearly defined what their *purpose*, *domain* and *accountabilities* are*.* Read this article to find out more about who does what.
 -   [**Our meetings**](meetings): We meet on a regular basis. Read this guide to find out what kind of meetings we have.
--   [**Using the logbook**](logbook)**:** Everything we do, we write down in our organisation logbook.
 -   [**Managing projects**](managing-projects)
 -   [**Tools we use**](tools): All volunteers use Slack to communicate. Google Workspace is for our calendar, email, video calls and files. Read this guide to find out how to get started with these tools.
 -   [**Using our website**](website)**:** Anyone can edit pages on our website. To learn more about how to use tags, translations, version history and more, read this article.
