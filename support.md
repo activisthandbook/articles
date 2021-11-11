@@ -2,7 +2,7 @@
 title: Guides for volunteers 📖
 description: Articles to help you as contributor to Activist Handbook 
 published: true
-date: 2021-11-11T14:42:31.195Z
+date: 2021-11-11T14:42:54.490Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-17T10:25:40.098Z
@@ -40,7 +40,7 @@ Every volunteer is part of one of our circles. We wrote guides for all circles. 
 -   **💬** [**Communication circle**](communication)
 -   **📝** [**Content circle**](content)
 -   **👩‍💻** [**Tech circle**](tech)
--    **📆** [**Events circle**](events) \[needs to be created\]
+-    **📆** [**Events circle**](events)
 -   **🤑** [**Finance circle**](finance)
 -   **🌏** [**Localisation circle**](localisation)
 
