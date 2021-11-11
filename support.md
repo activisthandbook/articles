@@ -2,7 +2,7 @@
 title: Guides for volunteers 📖
 description: Articles to help you as contributor to Activist Handbook 
 published: true
-date: 2021-11-11T14:25:35.081Z
+date: 2021-11-11T14:26:44.819Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-17T10:25:40.098Z
@@ -15,6 +15,10 @@ dateCreated: 2020-08-17T10:25:40.098Z
 > -   **💬 Communication circle:** We are always happy to schedule a video call or answer your questions via email: [contact@activisthandbook.org](mailto:contact@activisthandbook.org?subject=Support request (Support ID: #EN-108))
 > -   **👩‍💻 Tech circle**: Having trouble with Slack, our website, or anything else tech-related? Feel free to contact our tech circle.
 > -   **❤️ Wellbeing facilitator:** Your wellbeing is important to us. If you are dealing with personal circumstances, do not hesitate to reach out to our [wellbeing facilitator](wellbeing).
+
+<div style="position: relative;padding-bottom: 56.25%;height: 0;margin-top:16px;background:#eee">
+  <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/dC4KZ2P1-ZU" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border:0;position: absolute;top: 0;left: 0;"></iframe>
+</div>
 
 # Guides
 
