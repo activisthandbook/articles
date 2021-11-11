@@ -2,7 +2,7 @@
 title: Support: Communication circle
 description: 
 published: true
-date: 2021-11-11T13:09:48.981Z
+date: 2021-11-11T13:11:14.157Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-26T15:33:31.417Z
@@ -15,8 +15,9 @@ dateCreated: 2021-04-26T15:33:31.417Z
 
 # Circle guides
 
--   [Recruit new members](/en/support/communication/recruit)
--   [**Design guide**](design-guide)
+-   [**Recruit new members**](recruit)
+-  [**Design guide**](design-guide)
+- [**Tools we use**](tools)
 
 # Role guides
 
