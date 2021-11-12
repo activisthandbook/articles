@@ -2,13 +2,13 @@
 title: Guides for volunteers 📖
 description: Articles to help you as contributor to Activist Handbook 
 published: true
-date: 2021-11-12T10:51:14.583Z
+date: 2021-11-12T10:51:44.447Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-17T10:25:40.098Z
 ---
 
-**Contributing to Activist Handbook should be easy. That is why we wrote some guides to help you get started. If you are a new volunteer, this is the place to be. Before you continue, make sure to** [**join our community**](/join)**.**
+**Contributing to Activist Handbook should be easy. That is why we wrote some guides to help you get started. If you are a new volunteer, this is the place to be.**
 
 > Don't know where to start? We recommend all new volunteers to [**start with the basics**](basics).
 >
