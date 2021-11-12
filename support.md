@@ -2,7 +2,7 @@
 title: Guides for volunteers 📖
 description: Articles to help you as contributor to Activist Handbook 
 published: true
-date: 2021-11-12T10:52:49.694Z
+date: 2021-11-12T10:52:54.817Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-17T10:25:40.098Z
@@ -18,7 +18,7 @@ dateCreated: 2020-08-17T10:25:40.098Z
   <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/dC4KZ2P1-ZU" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border:0;position: absolute;top: 0;left: 0;"></iframe>
 </div>
 
-# Genral guides
+# General guides
 
 We know that seeing all of these guides can be a bit overwhelming. At the very least, we recommend new volunteers to read our article on [**the basics**](basics).
 
