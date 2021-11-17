@@ -2,7 +2,7 @@
 title: Volunteer guide: Communication circle
 description: 
 published: true
-date: 2021-11-12T10:25:02.065Z
+date: 2021-11-17T14:51:08.500Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-26T15:33:31.417Z
@@ -15,7 +15,7 @@ dateCreated: 2021-04-26T15:33:31.417Z
 # Circle guides
 -  [**Design guide**](design-guide)
 - [**Tools we use**](tools) 
- 
+  
 # Role guides
 -  **[Communication coordinator](/en/support/core/communications-coordinator):** The communications coordinator leads the communication team and is responsible for designing a communications strategy.
 - **[Integrator](integrator):** The integrator is the first point of contact for people who have shown interest in contributing to Activist Handbook.
