@@ -2,7 +2,7 @@
 title: Let's work together
 description: Become a partner of Activist Handbook
 published: true
-date: 2021-11-10T10:31:02.827Z
+date: 2021-11-29T11:27:52.242Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-25T13:07:59.603Z
@@ -35,7 +35,7 @@ Our amazing volunteers are happy to assist your movement in becoming more effect
 ## How you can help us
 Your organisation or movement can help make the Activist Handbook project a success in the following ways:
 - **📝 Write or crosspost articles:** Maybe you already have some guides for activists that you would like to share with a larger audience. Or perhaps people in your organisation can share their experiences and knowledge in new articles.
-- **📢 Tell your community about us:** Promote us on your social media and newsletter, share our partnership on your website, share our articles with your members, mention us during events, etc.
+- **📢 [Tell your community](promote) about us:** Promote us on your social media and newsletter, share our partnership on your website, share our articles with your members, mention us during events, etc.
 - **💰 Financial contribution:** No matter how small, any financial contribution is appreciated and will help us train more rebels. Your contribution will help us keep our website online, promote our project, and provide us with the digital tools we need to work more effectively.
 - **📆 Host events together:** By co-hosting events like training sessions, we will be able to learn from each other and our communities will get to know each other better.
 - **💪 Provide organisational support:** Maybe your organisation has lots of experience building up movements, applying for funding or working on large projects. Your advice can help us work more effectively.
