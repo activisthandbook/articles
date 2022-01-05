@@ -2,7 +2,7 @@
 title: Course: Web development for rebels
 description: Part of Rebel Academy, offered by Activist Handbook
 published: true
-date: 2021-07-14T10:59:02.426Z
+date: 2022-01-05T12:14:53.523Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-24T13:13:30.257Z
@@ -10,20 +10,15 @@ dateCreated: 2021-06-24T13:13:30.257Z
 
 **During this free course for rebels, you will learn all about the basics of web development. You will work together with your fellow students in small groups to learn how to build your own web apps. Like all our courses, no previous experience is required to follow along.**
 
-> This course is part of [Rebel Academy](/academy), an initiative developed by Activist Handbook to stimulate peer-to-peer learning.
-
-# Sign up to enrol
-
-This course is still in development, so it is not yet possible to sign up.
+> This course is part of [Rebel Academy](/en/academy), an initiative developed by Activist Handbook to stimulate peer-to-peer learning among change-makers.
 
 # Programme
 
--   **Duration:** 9 week course in September-October
--   **Workshop dates:** 12 Sept, 19 Sept, 26 Sept, 3 Oct, 10 Oct, 17 Oct, 24 Oct, 31 Oct, 7 Nov (attendance required).
--   **Format:**
-    -   *Workshops:* presentations given by fellow students and trainers, guided practicing exercises
-    -   *Group projects:* working together with fellow students on small projects
-    -   *Slack channel:* you can any kind of questions in our Slack channel.
+You will be joining our **online workshop sessions** every Sunday to learn about web development. Together with your fellow rebel students, you will be working on **small group projects**. In addition, you will be able to ask any questions you may have to our trainers in our **group chat**.
+
+**Workshop dates:** Every Sunday 14:00 UTC on 3 Oct, 10 Oct, 17 Oct, 24 Oct, 31 Oct, 7 Nov, 14 Nov, 21 Nov, and 28 Nov
+
+![](/webdev-min.png)
 
 # Requirements
 
@@ -51,16 +46,18 @@ Definitely, we do our best to make our courses accessible to everyone. [Let us k
 
 Yes, we will record our workshops and publish any course material in the syllabus below.
 
+## What language is this course?
+
+This course will be given in English. 
+
 # Syllabus
 
-The syllabus is still in development & will likely change:
-
--   [**Week 0: Meeting each other**](https://docs.google.com/document/d/1FvdFVvG8tCFiE8BDQQxvPT1Bjnqcd1lxuagnrbYXri0/edit#heading=h.ki4i8t6l4alr)
--   [**Week 1: Introduction to web development (Git)**](https://docs.google.com/document/d/1ywTgMs2byXCT-xl61VOuv-lwvRTUvsuYm76ZvJO_BdI/edit)
--   **Week 2: Basic building blocks (HTML)**
--   **Week 3: Styling your webpage (CSS)**
--   **Week 4: Adding interactivity (Javascript & Vue)**
--   **Week 5: Building components (Javascript & Vue)**
--   **Week 6: UI frameworks (Quasar)**
--   **Week 7: Connecting to a backend (Amplify)**
--   **Week 8: Recap & reflection**
+-   [**Week 0: Meeting each other**](week-0)
+-   [**Week 1: Introduction to web development (Git)**](week-1)
+-   [**Week 2: Basic building blocks (HTML)**](week-2)
+-   [**Week 3: Styling your webpage (CSS)**](week-3)
+-   [**Week 4: Adding interactivity (Javascript & Vue)**](week-4)
+-   [**Week 5: Building components (Javascript & Vue)**](week-5)
+-   [**Week 6: UI frameworks (Quasar)**](week-6)
+-   [**Week 7: Connecting to a backend (Amplify)**](week-7)
+-   [**Week 8: Recap & reflection**](week-8)
