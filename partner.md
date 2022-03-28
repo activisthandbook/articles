@@ -2,7 +2,7 @@
 title: Let's work together
 description: Become a partner of Activist Handbook
 published: true
-date: 2021-11-29T11:27:52.242Z
+date: 2022-03-28T13:32:23.159Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-25T13:07:59.603Z
@@ -12,7 +12,7 @@ dateCreated: 2021-09-25T13:07:59.603Z
 
 > We recommend you to read this page carefully first. 
 >
-> Convinced? Schedule a video call using our **[partnership form](https://calendly.com/activisthandbook/partner)** or reach out to us via contact@activisthandbook.org
+> Convinced? Schedule a video call using our **[partnership form](https://calendly.com/jelenaaleksic/activisthandbook)** or reach out to us via contact@activisthandbook.org
 
 
 # What is Activist Handbook?
