@@ -2,7 +2,7 @@
 title: Guides for volunteers 📖
 description: Articles to help you as contributor to Activist Handbook 
 published: true
-date: 2022-03-30T07:28:31.780Z
+date: 2022-03-30T07:28:39.680Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-17T10:25:40.098Z
@@ -42,7 +42,7 @@ Every volunteer is part of one of our circles. We wrote guides for all circles. 
 -   **🤑** [**Finance circle**](finance)
 -   **🌏** [**Localisation circle**](localisation)
 
-# Rebel hubs
+# Rebel Hubs
 We are an international movement. Learn how to build your own local **[Rebel Hub](hub)**.
 
 ![](/illustration-support-min.png)
