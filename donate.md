@@ -2,7 +2,7 @@
 title: Donate
 description: Activist Handbook Foundation
 published: true
-date: 2022-06-24T08:37:17.968Z
+date: 2022-06-24T08:40:46.176Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T07:39:27.310Z
@@ -14,7 +14,20 @@ We'll be blunt: We're in deep shit. The climate crisis and the mass extinction o
 
 We need a billion activists to speak up and fight against injustice. With your help, we can train those who want to make a change. Your donation can make the difference. We appreciate any contribution, no matter how small.
 
-<script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe src="https://donorbox.org/embed/activisthandbook" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important"></iframe>
+<div class="donations">
+  <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=30">€5</a>
+  <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=30">€10</a>
+  <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=30">€20</a>
+</div>
+
+<style>
+  a{
+    display: block;
+    background: #D70057;
+    color: white;
+    text-decoration:none
+  }
+</style>
 
 # Other options
 If you donate using the form above, we pay a small transaction fee to Donorbox and our payment provider. By donating using the methods below, we get to keep all of your donated money.
