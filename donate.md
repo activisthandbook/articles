@@ -2,7 +2,7 @@
 title: Donate
 description: Activist Handbook Foundation
 published: true
-date: 2022-06-24T08:41:05.531Z
+date: 2022-06-24T08:41:42.831Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T07:39:27.310Z
@@ -19,15 +19,6 @@ We need a billion activists to speak up and fight against injustice. With your h
   <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=30">€10</a>
   <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=30">€20</a>
 </div>
-
-<style>
-  a{
-    display: block;
-    background: #D70057;
-    color: white !important;
-    text-decoration:none
-  }
-</style>
 
 # Other options
 If you donate using the form above, we pay a small transaction fee to Donorbox and our payment provider. By donating using the methods below, we get to keep all of your donated money.
