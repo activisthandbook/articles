@@ -2,7 +2,7 @@
 title: Donate
 description: Activist Handbook Foundation
 published: true
-date: 2022-06-24T12:28:09.947Z
+date: 2022-06-24T12:28:18.144Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T07:39:27.310Z
@@ -34,8 +34,6 @@ Activist Handbook is a highly efficient organisation, making a maximum impact wi
 -   **🌍 Connecting activists around the globe:** We are enabling movements around the globe to exchange knowledge on change-making. That requires us to pay for digital tools that allow us to work together internationally. And to compensate the travel costs of those who cannot afford to pay for it themselves. Your donation brings together activists around the globe.
 
 ![Activist Handbook map](/map.png)
-
-Map of Activist Handbook hubs
 
 # Direct bank transfer
 If you donate using the form above, we pay a small transaction fee to Donorbox and our payment provider. By using a direct bank transfer, we get to keep all of your donated money:
