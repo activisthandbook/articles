@@ -2,7 +2,7 @@
 title: Donate
 description: Activist Handbook Foundation
 published: true
-date: 2022-06-24T08:50:09.589Z
+date: 2022-06-24T08:51:35.206Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T07:39:27.310Z
@@ -12,7 +12,7 @@ dateCreated: 2022-05-26T07:39:27.310Z
 
 *Contribute monthly:*
 <div class="donations">
-  <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=5">€5</a>
+  <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=5" target>€5</a>
   <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=10">€10</a>
   <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=10">€20</a>
 </div>
