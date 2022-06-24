@@ -2,7 +2,7 @@
 title: Donate
 description: Activist Handbook Foundation
 published: true
-date: 2022-06-24T09:30:12.816Z
+date: 2022-06-24T09:59:16.529Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T07:39:27.310Z
@@ -10,13 +10,16 @@ dateCreated: 2022-05-26T07:39:27.310Z
 
 **Activist Handbook trains change-makers around the globe. We are a non-profit that depends on donations to stay online and thriving.** [**Donate today**](https://donorbox.org/activisthandbook) **and help us make a positive impact for years to come.**
 
-*Contribute monthly:*
 <div class="donations">
-  <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=10">€10</a>
-  <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=15">€15</a>
-  <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=20">€20</a>
+  <h1>Start contributing</h1>
+  <div>Donate monthly to the Activist Handbook solidarity fund:</div>
+  <div class="flex">
+    <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=10">€10</a>
+    <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=15">€15</a>
+    <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=20">€20</a>
+  </div>
+  <a class="other" href="https://donorbox.org/activisthandbook">Select other amount</a>
 </div>
-<a href="https://donorbox.org/activisthandbook">Select other amount</a>
 
 We'll be blunt: We're in deep shit. The climate crisis and the mass extinction of species require radical action. The wealthiest top 1% keeps getting richer, and the rest of us pay the price. 
 
