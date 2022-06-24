@@ -2,25 +2,27 @@
 title: Donate
 description: Activist Handbook Foundation
 published: true
-date: 2022-06-24T08:41:42.831Z
+date: 2022-06-24T08:48:57.416Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T07:39:27.310Z
 ---
 
-**Activist Handbook trains change-makers around the globe. We are a non-profit that depends on donations to stay online and thriving.** [**Donate today**](http://bunq.me/activisthandbook) **and help us make a positive impact for years to come.**
+**Activist Handbook trains change-makers around the globe. We are a non-profit that depends on donations to stay online and thriving.** [**Donate today**](https://donorbox.org/activisthandbook) **and help us make a positive impact for years to come.**
+
+*Contribute monthly:*
+<div class="donations">
+  <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=5">€5</a>
+  <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=10">€10</a>
+  <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=10">€20</a>
+</div>
+<a href="https://donorbox.org/activisthandbook">Select other amount</a>
 
 We'll be blunt: We're in deep shit. The climate crisis and the mass extinction of species require radical action. The wealthiest top 1% keeps getting richer, and the rest of us pay the price. 
 
 We need a billion activists to speak up and fight against injustice. With your help, we can train those who want to make a change. Your donation can make the difference. We appreciate any contribution, no matter how small.
 
-<div class="donations">
-  <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=30">€5</a>
-  <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=30">€10</a>
-  <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=30">€20</a>
-</div>
-
-# Other options
+# Other donation options
 If you donate using the form above, we pay a small transaction fee to Donorbox and our payment provider. By donating using the methods below, we get to keep all of your donated money.
 
 ## Donate once
