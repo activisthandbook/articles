@@ -2,7 +2,7 @@
 title: Donate
 description: Activist Handbook Foundation
 published: true
-date: 2022-06-24T08:48:57.416Z
+date: 2022-06-24T08:49:50.230Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T07:39:27.310Z
