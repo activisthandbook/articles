@@ -2,7 +2,7 @@
 title: Solidarity fund
 description: Making Activist Handbook accessible for all
 published: true
-date: 2022-06-24T09:37:44.256Z
+date: 2022-06-24T09:43:26.159Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-24T09:19:44.878Z
@@ -11,14 +11,15 @@ dateCreated: 2022-06-24T09:19:44.878Z
 **Contribute to our Activist Handbook solidarity fund to help make this project accessible to everyone. Volunteers and supporters all chip in with whatever they can afford to give.** 
 
 <div class="donations">
-  <div>Contribute monthly:</div>
+  <h1>Start contributing</h1>
+  <div>Contribute monthly to our solidarity fund:</div>
   <div class="flex">
     <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=10">€10</a>
     <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=15">€15</a>
     <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=20">€20</a>
   </div>
+  <a class="other" href="https://donorbox.org/activisthandbook">Select other amount</a>
 </div>
-<a href="https://donorbox.org/activisthandbook">Select other amount</a>
 
 # About the solidarity fund
 
