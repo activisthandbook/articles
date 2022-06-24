@@ -2,7 +2,7 @@
 title: Solidarity fund
 description: Making Activist Handbook accessible for all
 published: true
-date: 2022-06-24T09:59:20.183Z
+date: 2022-06-24T10:01:17.925Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-24T09:19:44.878Z
@@ -28,3 +28,5 @@ Our solidarity fund helps us make more impact together. We all contribute whatev
 -   **❤️ Make Activist Handbook accessible to everyone:** We want to include the experiences of activists around the globe in our handbook. But not everyone can afford to work as a volunteer, or even to pay for the required internet connection. Your donation makes our organisation more inclusive.
 -   **🌍 Connect activists around the globe:** We are enabling movements around the globe to exchange knowledge on change-making. That requires us to pay for digital tools that allow us to work together internationally. And to compensate the travel costs of those who cannot afford to pay for it themselves. Your contribution brings together activists around the globe.
 -   💪 **Keep Activist Handbook independent:** We do not want to depend 100% on other organisations to stay alive. To keep Activist Handbook online and thriving, it is important to have a constant and reliable income source. With the solidarity fund, we can keep making ambitious and radical plans to change the world for the better.
+
+![Activist Handbook map](/map.png)
