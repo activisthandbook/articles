@@ -2,7 +2,7 @@
 title: Donate
 description: Activist Handbook Foundation
 published: true
-date: 2022-06-24T08:35:46.520Z
+date: 2022-06-24T08:37:17.968Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T07:39:27.310Z
@@ -14,13 +14,18 @@ We'll be blunt: We're in deep shit. The climate crisis and the mass extinction o
 
 We need a billion activists to speak up and fight against injustice. With your help, we can train those who want to make a change. Your donation can make the difference. We appreciate any contribution, no matter how small.
 
-# Donate once
+<script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe src="https://donorbox.org/embed/activisthandbook" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important"></iframe>
+
+# Other options
+If you donate using the form above, we pay a small transaction fee to Donorbox and our payment provider. By donating using the methods below, we get to keep all of your donated money.
+
+## Donate once
 
 Make a one-off contribution:
 
 👉 [**bunq.me/activisthandbook**](http://bunq.me/activisthandbook)
 
-# Recurring donation
+## Recurring donation
 
 If you would like to donate to the Activist Handbook Foundation on a recurring basis, set up a scheduled transfer in your banking account:
 
