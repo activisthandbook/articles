@@ -2,7 +2,7 @@
 title: Donate
 description: Activist Handbook Foundation
 published: true
-date: 2022-06-24T09:59:42.744Z
+date: 2022-06-24T10:01:02.976Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T07:39:27.310Z
@@ -25,6 +25,18 @@ We'll be blunt: We're in deep shit. The climate crisis and the mass extinction o
 
 We need a billion activists to speak up and fight against injustice. With your help, we can train those who want to make a change. Your donation can make the difference. We appreciate any contribution, no matter how small.
 
+# Where your donation goes
+
+Activist Handbook is a highly efficient organisation, making a maximum impact with a minimal budget. As grassroots activists, we are used to working with limited resources. This is where your donation goes:
+
+-   **🔗 Keeping our website online:** We believe Activist Handbook should always stay free, and without ads. Your donation allows us to pay for our web hosting.
+-   **❤️ Making activism accessible to everyone:** We want to include the experiences of activists around the globe in our handbook. But not everyone can afford to work as a volunteer, or even to pay for the required internet connection. Your donation makes our organisation more inclusive.
+-   **🌍 Connecting activists around the globe:** We are enabling movements around the globe to exchange knowledge on change-making. That requires us to pay for digital tools that allow us to work together internationally. And to compensate the travel costs of those who cannot afford to pay for it themselves. Your donation brings together activists around the globe.
+
+![Activist Handbook map](/map.png)
+
+Map of Activist Handbook hubs
+
 # Other donation options
 If you donate using the form above, we pay a small transaction fee to Donorbox and our payment provider. By donating using the methods below, we get to keep all of your donated money.
 
@@ -43,18 +55,6 @@ If you would like to donate to the Activist Handbook Foundation on a recurring b
 -   **BIC/SWIFT:** BUNQNL2AXXX
 
 **Recurring donations are important for us.** By contributing a small amount every month, you ensure Activist Handbook can continue to help change-makers around the globe in the long run.
-
-# Where your donation goes
-
-Activist Handbook is a highly efficient organisation, making a maximum impact with a minimal budget. As grassroots activists, we are used to working with limited resources. This is where your donation goes:
-
--   **🔗 Keeping our website online:** We believe Activist Handbook should always stay free, and without ads. Your donation allows us to pay for our web hosting.
--   **❤️ Making activism accessible to everyone:** We want to include the experiences of activists around the globe in our handbook. But not everyone can afford to work as a volunteer, or even to pay for the required internet connection. Your donation makes our organisation more inclusive.
--   **🌍 Connecting activists around the globe:** We are enabling movements around the globe to exchange knowledge on change-making. That requires us to pay for digital tools that allow us to work together internationally. And to compensate the travel costs of those who cannot afford to pay for it themselves. Your donation brings together activists around the globe.
-
-![Activist Handbook map](/map.png)
-
-Map of Activist Handbook hubs
 
 # Activist Handbook Foundation
 
