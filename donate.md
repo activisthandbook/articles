@@ -2,7 +2,7 @@
 title: Donate
 description: Activist Handbook Foundation
 published: true
-date: 2022-06-24T10:19:23.082Z
+date: 2022-06-24T12:28:09.947Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T07:39:27.310Z
@@ -37,24 +37,16 @@ Activist Handbook is a highly efficient organisation, making a maximum impact wi
 
 Map of Activist Handbook hubs
 
-# Other donation options
-If you donate using the form above, we pay a small transaction fee to Donorbox and our payment provider. By donating using the methods below, we get to keep all of your donated money.
-
-## Donate once
-
-Make a one-off contribution:
-
-👉 [**bunq.me/activisthandbook**](http://bunq.me/activisthandbook)
-
-## Recurring donation
-
-If you would like to donate to the Activist Handbook Foundation on a recurring basis, set up a scheduled transfer in your banking account:
+# Direct bank transfer
+If you donate using the form above, we pay a small transaction fee to Donorbox and our payment provider. By using a direct bank transfer, we get to keep all of your donated money:
 
 -   **Account holder:** Stichting Activist Handbook
 -   **IBAN:** NL63BUNQ2070437256
 -   **BIC/SWIFT:** BUNQNL2AXXX
 
 **Recurring donations are important for us.** By contributing a small amount every month, you ensure Activist Handbook can continue to help change-makers around the globe in the long run.
+
+If you would like to donate to the Activist Handbook Foundation on a recurring basis, set up a scheduled transfer in your banking account. 
 
 # Activist Handbook Foundation
 
