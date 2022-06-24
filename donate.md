@@ -2,7 +2,7 @@
 title: Donate
 description: Activist Handbook Foundation
 published: true
-date: 2022-06-24T08:40:46.176Z
+date: 2022-06-24T08:41:05.531Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T07:39:27.310Z
@@ -24,7 +24,7 @@ We need a billion activists to speak up and fight against injustice. With your h
   a{
     display: block;
     background: #D70057;
-    color: white;
+    color: white !important;
     text-decoration:none
   }
 </style>
