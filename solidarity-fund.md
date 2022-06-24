@@ -2,7 +2,7 @@
 title: Solidarity fund
 description: Making Activist Handbook accessible for all
 published: true
-date: 2022-06-24T10:07:16.263Z
+date: 2022-06-24T12:29:06.398Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-24T09:19:44.878Z
