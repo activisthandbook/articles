@@ -2,7 +2,7 @@
 title: Donate
 description: Activist Handbook Foundation
 published: true
-date: 2022-06-25T11:13:16.090Z
+date: 2022-06-25T11:14:12.821Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T07:39:27.310Z
@@ -29,7 +29,7 @@ We need a billion activists to speak up and fight against injustice. With your h
 
 Activist Handbook is a highly efficient nonprofit organisation, making a maximum impact with a minimal budget. As grassroots activists, we are used to getting the most out of limited resources. This is where your donation goes:
 
--   **🔗 Keeping our website online:** We believe Activist Handbook should always stay free, and without ads. Your donation allows us to pay for our web hosting.
+-   **🔗 Keeping our website online:** We believe Activist Handbook should always stay free, and without ads. Your donation allows us to pay for our web hosting and build new digital tools that help activist around the globe.
 -   **❤️ Making activism accessible to everyone:** We want to include the experiences of activists around the globe in our handbook. But not everyone can afford to work as a volunteer, or even to pay for the required internet connection. Your donation makes our organisation more inclusive.
 -   **🌍 Connecting activists around the globe:** We are enabling movements around the globe to exchange knowledge on change-making. That requires us to pay for digital tools that allow us to work together internationally. And to compensate the travel costs of those who cannot afford to pay for it themselves. Your donation brings together activists around the globe.
 
