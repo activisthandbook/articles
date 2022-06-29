@@ -2,7 +2,7 @@
 title: Donate
 description: Activist Handbook Foundation
 published: true
-date: 2022-06-25T11:21:38.063Z
+date: 2022-06-29T09:42:47.729Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T07:39:27.310Z
@@ -18,7 +18,7 @@ dateCreated: 2022-05-26T07:39:27.310Z
     <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=15">€15</a>
     <a href="https://donorbox.org/activisthandbook?default_interval=m&amount=20">€20</a>
   </div>
-  <a class="other" href="https://donorbox.org/activisthandbook">Select other amount</a>
+  <a class="other" href="https://donorbox.org/activisthandbook">Select other amount</a> or make a <a class="other" href="https://donorbox.org/activisthandbook">one time donation</a>
 </div>
 
 We'll be blunt: We're in deep shit. The climate crisis and the mass extinction of species require radical action. The wealthiest top 1% keeps getting richer, and the rest of us pay the price. 
